@@ -1,0 +1,14 @@
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\bin\Debug\net8.0\csharp projeto musica.exe
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\bin\Debug\net8.0\csharp projeto musica.deps.json
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\bin\Debug\net8.0\csharp projeto musica.runtimeconfig.json
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\bin\Debug\net8.0\csharp projeto musica.dll
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\bin\Debug\net8.0\csharp projeto musica.pdb
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\csharp projeto musica.GeneratedMSBuildEditorConfig.editorconfig
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\csharp projeto musica.AssemblyInfoInputs.cache
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\csharp projeto musica.AssemblyInfo.cs
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\csharp projeto musica.csproj.CoreCompileInputs.cache
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\csharp projeto musica.dll
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\refint\csharp projeto musica.dll
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\csharp projeto musica.pdb
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\csharp projeto musica.genruntimeconfig.cache
+F:\Alura Estudos\Aprendendo a programar em C# com Orientação a Objetos\csharp projeto musica\obj\Debug\net8.0\ref\csharp projeto musica.dll
